@@ -24,13 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Principal Engineer driven by a deep curiosity for how machines perceive the world.  
-My work sits at the intersection of **Computer Vision**, **Deep Learning** and **Autonomous Vehicle**  
+Principal Engineer driven by a deep curiosity for how machines perceive the world.
+My work sits at the intersection of **Computer Vision**, **Deep Learning** and **Autonomous Vehicle**
 
-I currently focus on **3D perception** and **end-to-end autonomous driving research**, where I design architectures that bridge the gap between **research innovation** and **real-world production**.  
+I currently focus on **3D perception** and **end-to-end autonomous driving research**, where I design architectures that bridge the gap between **research innovation** and **real-world production**.
 
-This website is also home to my [blog](/blog), where I write about **AI research**, **computer vision trends**, and **technical deep dives** — from perception to end-to-end autonomous driving.  
+This website is also home to my [blog](/blog), where I write about **AI research**, **computer vision trends**, and **technical deep dives** — from perception to end-to-end autonomous driving.
 
 📰 Want to stay updated?
 [Subscribe via RSS](/feed.xml)
-
