@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-towards-universal-navigation-foundation-models",
+        
+          title: "Towards Universal Navigation Foundation Models",
+        
+        description: "Exploring how a single Navigation Foundation Model generalizes across diverse robot embodiments and navigation tasks",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/2025-10-13-NavFoM/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
